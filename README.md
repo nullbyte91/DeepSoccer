@@ -21,6 +21,7 @@ More detailed instruction can be found at my [blog post of DeepSoccer](https://k
 - pynput
 - progressbar
 - opencv-python
+- ROS Dep(sudo apt install ros-melodic-velocity-controllers ros-melodic-joint-state-publisher-gui)
 
 ## 3) Jetson Embedded Board
 - JetPack 4.4
